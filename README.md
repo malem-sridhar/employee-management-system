@@ -59,37 +59,18 @@ Build Tool: Create React App
 
 Follow the steps below to run the project locally.
 
-Prerequisites
-
-Node.js (v14 or above)
-
-npm
+Prerequisites: Node.js (v14 or above), npm
 
 Installation
+Clone the repository: git clone <your-github-repository-url>
 
-Clone the repository
+Navigate to the project directory: cd employee-management-system
 
-git clone <your-github-repository-url>
+Install dependencies: npm install
 
+Start the development server: npm start
 
-Navigate to the project directory
-
-cd employee-management-system
-
-
-Install dependencies
-
-npm install
-
-
-Start the development server
-
-npm start
-
-
-Open in browser
-
-http://localhost:3000
+Open in browser: http://localhost:3000
 
 **Login Credentials (Mock)**
 Username: Admin	
