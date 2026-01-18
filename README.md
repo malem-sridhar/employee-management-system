@@ -1,6 +1,7 @@
 **Employee Management System**
 
 A simple and user-friendly Employee Management System built with React.js.
+
 This project demonstrates basic authentication, CRUD operations, form validation, image upload, filtering, and printing functionality.
 
 **Project Overview**
@@ -61,7 +62,8 @@ Follow the steps below to run the project locally.
 
 Prerequisites: Node.js (v14 or above), npm
 
-Installation
+Installation:
+
 Clone the repository: git clone <your-github-repository-url>
 
 Navigate to the project directory: cd employee-management-system
@@ -73,7 +75,9 @@ Start the development server: npm start
 Open in browser: http://localhost:3000
 
 **Login Credentials (Mock)**
+
 Username: Admin	
+
 Password: admin@1234
 
 Authentication is mock-based and implemented only for demo purposes.
