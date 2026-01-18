@@ -116,7 +116,7 @@ function EmployeeForm({ addEmployee, editEmp, updateEmployee }) {
         <option value="">State</option>
         <option>Telangana</option>
         <option>Karnataka</option>
-        <option>Kerala</option>
+        <option>Andhra Pradesh</option>
         <option>Tamil Nadu</option>
       </select>
       {errors.state && <small className="error">{errors.state}</small>}
