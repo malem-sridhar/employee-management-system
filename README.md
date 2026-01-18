@@ -19,7 +19,7 @@ Search and filter employees
 
 Print employee data
 
-✨ Features
+**Features**
 
 Mock Login Authentication
 
@@ -43,7 +43,7 @@ Local Storage Data Persistence
 
 Clean & Simple UI
 
-🛠 Tech Stack
+**Tech Stack**
 
 Frontend: React.js (JavaScript)
 
@@ -55,7 +55,7 @@ Storage: Browser Local Storage
 
 Build Tool: Create React App
 
-🚀 Getting Started
+**Getting Started**
 
 Follow the steps below to run the project locally.
 
@@ -91,13 +91,13 @@ Open in browser
 
 http://localhost:3000
 
-🔐 Login Credentials (Mock)
-Username	Password
-Admin	admin@1234
+**Login Credentials (Mock)**
+Username: Admin	
+Password: admin@1234
 
 Authentication is mock-based and implemented only for demo purposes.
 
-🧠 Assumptions & Design Decisions
+**Assumptions & Design Decisions**
 
 No backend API is used; all data is stored in Local Storage
 
